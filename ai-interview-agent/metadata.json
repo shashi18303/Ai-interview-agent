@@ -1,0 +1,10 @@
+{
+  "name": "AI Interview Agent",
+  "description": "An intelligent technical interviewer that generates role-specific questions, evaluates candidate answers, calculates scores, and produces comprehensive hiring reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
